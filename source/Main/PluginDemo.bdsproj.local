@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/06/30 17:17:53.397.bdsproj,C:\Users\loudj\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\loudj\Documents\Borland Studio Projects\PluginDemo.bdsproj</Transaction>
+    <Transaction>2017/06/30 17:18:05.335.pas,C:\Users\loudj\Documents\Borland Studio Projects\Unit1.pas=C:\Users\loudj\Documents\Borland Studio Projects\MainFrm.pas</Transaction>
+    <Transaction>2017/06/30 17:18:05.335.dfm,C:\Users\loudj\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\loudj\Documents\Borland Studio Projects\MainFrm.dfm</Transaction>
+    <Transaction>2017/06/30 17:20:51.699.pas,C:\Users\loudj\Documents\Borland Studio Projects\MainFrm.pas=E:\WorkCode\PluginDemo\MainFrm.pas</Transaction>
+    <Transaction>2017/06/30 17:20:51.699.dfm,C:\Users\loudj\Documents\Borland Studio Projects\MainFrm.dfm=E:\WorkCode\PluginDemo\MainFrm.dfm</Transaction>
+    <Transaction>2017/06/30 17:20:53.588.bdsproj,C:\Users\loudj\Documents\Borland Studio Projects\PluginDemo.bdsproj=E:\WorkCode\PluginDemo\PluginDemo.bdsproj</Transaction>
+    <Transaction>2017/06/30 17:29:42.373.pas,E:\WorkCode\PluginDemo\Unit1.pas=E:\WorkCode\PluginDemo\MainInterface.pas</Transaction>
+  </Transactions>
+</BorlandProject>

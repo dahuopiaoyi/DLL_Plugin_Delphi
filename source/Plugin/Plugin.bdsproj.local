@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/06/30 17:18:59.760.bdsproj,C:\Users\loudj\Documents\Borland Studio Projects\Project1.bdsproj=C:\Users\loudj\Documents\Borland Studio Projects\Plugin.bdsproj</Transaction>
+    <Transaction>2017/06/30 17:20:52.776.bdsproj,C:\Users\loudj\Documents\Borland Studio Projects\Plugin.bdsproj=C:\Users\loudj\Documents\Borland Studio Projects\Plugin.bdsproj</Transaction>
+    <Transaction>2017/06/30 18:31:54.594.pas,E:\WorkCode\PluginDemo\source\Plugin\Unit1.pas=E:\WorkCode\PluginDemo\source\Plugin\DllPlugin.pas</Transaction>
+  </Transactions>
+</BorlandProject>
